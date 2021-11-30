@@ -14,3 +14,11 @@
   151  git status
   152  git commit -a
   153  git status
+
+Use tab button to complete line
+Use * as wildcard
+Use history to show command line history
+mv - move - mv filename foldername
+rm - remove
+cd - change directory
+
