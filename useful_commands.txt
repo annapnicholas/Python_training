@@ -1,0 +1,16 @@
+ 138  ls Python_training
+  139  mv *.py Python_training
+  140  ls
+  141  mv *.ipynb Python_training
+  142  ls
+  143  rm hello.txt
+  144  ls
+  145  cd Python_training
+  146  ls
+  147  git init
+  148  git branch -m main
+  149  git status
+  150  git add *
+  151  git status
+  152  git commit -a
+  153  git status
